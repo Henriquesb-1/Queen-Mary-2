@@ -27,7 +27,7 @@
     border-radius: 30px;
 }
 .qrt1 {
-    background-image: url('./imgs/acomodacao/qm2simpleroom.jpg');
+    background-image: url('../../imgs/acomodacao/qm2simpleroom.jpg');
     background-size: cover;
     
 }
@@ -35,7 +35,7 @@
     display: none;
 }
 .qrt2{
-    background-image: url('./imgs/acomodacao/qm2luxurysuites.jpg');
+    background-image: url('../../imgs/acomodacao/qm2luxurysuites.jpg');
     background-size: cover;
 }
 .qrt2Title {
@@ -60,11 +60,11 @@
     align-items: center;
 }
 .qrt1conteudo {
-    background: url('./imgs/acomodacao/qm2simpleroom.jpg') no-repeat center;
+    background: url('../../imgs/acomodacao/qm2simpleroom.jpg') no-repeat center;
     background-size: cover;
 }
 .qrt2conteudo {
-    background: url('./imgs/acomodacao/qm2luxurysuites.jpg') no-repeat center; 
+    background: url('../../imgs/acomodacao/qm2luxurysuites.jpg') no-repeat center; 
     background-size: cover;
     display: none;
 }
