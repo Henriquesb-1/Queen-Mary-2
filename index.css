@@ -3,11 +3,6 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    src: url("../font/IndieFlower-Regular.ttf");
-    font-family: indie-Flower;
-}
-
 @media all {
     body {
         margin: 0px;
@@ -16,7 +11,7 @@
         color: #fff;
         font-family: "indie-Flower" 'Times New Roman', Times, serif;
 
-        background: url('../imgs/background/qm2back.jpg') no-repeat;
+        background: url('./imgs/background/qm2back.jpg') no-repeat;
         background-size: cover;
         background-attachment: fixed;
         background-color: rgba(40, 40, 40, 0.9);
