@@ -32,9 +32,9 @@
         transition-delay: 0s;
     }
 
-    @media screen and (max-width: 685px) {
+    @media screen and (max-width: 768px) {
         body {
-            background: url('../imgs/background/qm2SmBack.jpg') no-repeat;
+            background: url('./imgs/background/qm2SmBack.jpg') no-repeat;
             background-attachment: fixed;
             background-size: cover;
         }
